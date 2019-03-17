@@ -91,7 +91,11 @@
   {
     "selector": ".autorotate",
     "style": {
-      "edge-text-rotation": "autorotate"
+      "edge-text-rotation": "autorotate",
+      "color": "#fff",
+      "text-outline-color": "#888",
+      "text-outline-width": 2,
+      "font-size": "12"
     }
   },
   {
@@ -134,7 +138,111 @@
   {
     "selector": "#Gorvas",
     "style": {
-      "background-image": "https://farm5.staticflickr.com/4806/40427186323_e29bb335b5_k.jpg"
+      "background-image": "src/faces/gorvas.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Gregory",
+    "style": {
+      "background-image": "src/faces/gregory.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Lilia",
+    "style": {
+      "background-image": "src/faces/lilia.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Lilliana",
+    "style": {
+      "background-image": "src/faces/lilliana.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Mayelre",
+    "style": {
+      "background-image": "src/faces/mayelre.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Orit",
+    "style": {
+      "background-image": "src/faces/orit.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Reave",
+    "style": {
+      "background-image": "src/faces/reave.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Rei",
+    "style": {
+      "background-image": "src/faces/rei.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Toad",
+    "style": {
+      "background-image": "src/faces/toad.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Xaikon",
+    "style": {
+      "background-image": "src/faces/xaikon.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
+    }
+  },
+  {
+    "selector": "#Zhen",
+    "style": {
+      "background-image": "src/faces/zhen.png",
+      "background-height": "135%",
+      "background-width": "135%",
+      "background-fit": "none",
+      "background-clip": "node"
     }
   }
 ]

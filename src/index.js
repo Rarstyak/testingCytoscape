@@ -305,7 +305,7 @@ var cy = cytoscape({
           label: "A good friend! Very knowledgeable and I admire that X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -315,17 +315,17 @@ var cy = cytoscape({
             "Had a rough past few years. I feel ya. Also took my beer for me :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: { source: "Lilia", target: "Orit", label: "Funny :)" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: { source: "Lilia", target: "Reave", label: "No comment. x(" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "red", "target-arrow-color": "red" }
       },
       {
         data: {
@@ -334,7 +334,7 @@ var cy = cytoscape({
           label: "Seems friendly, but I only really see you in battle :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -343,7 +343,7 @@ var cy = cytoscape({
           label: "Takes a lot of jokes from the party, can kill some stuff :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -352,7 +352,7 @@ var cy = cytoscape({
           label: "Shielded me in battle :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -361,7 +361,7 @@ var cy = cytoscape({
           label: "Very friendly but can't keep a secret :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       // Lilliana
       {
@@ -371,7 +371,7 @@ var cy = cytoscape({
           label: "Takes hits and distracts enemies so I don't die! :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -380,7 +380,7 @@ var cy = cytoscape({
           label: "Pretty cool dude, level headed during party discussions :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -389,7 +389,7 @@ var cy = cytoscape({
           label: "A wise gentle soul worthy of emulating X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -399,7 +399,7 @@ var cy = cytoscape({
             "Thinks we're definitely great friends because female bonding X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -408,12 +408,12 @@ var cy = cytoscape({
           label: "Cool cause deity things but kinda reserved :) "
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: { source: "Lilliana", target: "Reave", label: ":|" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -422,7 +422,7 @@ var cy = cytoscape({
           label: "Cool magical being! X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -431,7 +431,7 @@ var cy = cytoscape({
           label: "Good fighter, good compromiser :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -440,7 +440,7 @@ var cy = cytoscape({
           label: "Quiet and dark but seems pretty smart :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -450,7 +450,7 @@ var cy = cytoscape({
             "Well intentioned, but probably shouldn't talk diplomatically. Cool magic though! X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       //Mayelre
       {
@@ -460,7 +460,7 @@ var cy = cytoscape({
           label: "X("
         },
         classes: "autorotate",
-        style: { "line - color": "COLOR", "target - arrow - color": "COLOR" }
+        style: { "line-color": "red", "target-arrow-color": "red" }
       },
       {
         data: {
@@ -469,7 +469,7 @@ var cy = cytoscape({
           label: "accepts drinks from me :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -479,7 +479,7 @@ var cy = cytoscape({
             "not as clueless about non-aboleth stuff as I thought you'd be. Cares. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -489,7 +489,7 @@ var cy = cytoscape({
             "You kind of forced your friendship on me but I'll never admit it :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -498,7 +498,7 @@ var cy = cytoscape({
           label: "tolerates when not complaining about my alcohol problem :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -508,12 +508,12 @@ var cy = cytoscape({
             "Something about you kind of freaks me out but I can't pinpoint what it is :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: { source: "Mayelre", target: "Rei", label: "Actively avoids :(" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: {
@@ -522,7 +522,7 @@ var cy = cytoscape({
           label: "doesn't hate you as much as Xaikon :("
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: {
@@ -531,7 +531,7 @@ var cy = cytoscape({
           label: "Mayelre hates you X("
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "red", "target-arrow-color": "red" }
       },
       {
         data: {
@@ -540,7 +540,7 @@ var cy = cytoscape({
           label: "asks dumb questions but isnt annoying :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       // Orit
       {
@@ -550,7 +550,7 @@ var cy = cytoscape({
           label: "A good warrior, but could drink less. Kind of rude. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -560,7 +560,7 @@ var cy = cytoscape({
             "A strong and intelligent man. Reliable, but likes to drink. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -569,7 +569,7 @@ var cy = cytoscape({
           label: "A good friend. Reliable and friendly. X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -579,7 +579,7 @@ var cy = cytoscape({
             "A good person, though I feel they are slightly disingenuous. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -589,7 +589,7 @@ var cy = cytoscape({
             "Though well-meaning-ish, she is a belligerant drunk. I have hope for her yet. :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -598,7 +598,7 @@ var cy = cytoscape({
           label: "A person I respect, albeit rude at times. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -607,7 +607,7 @@ var cy = cytoscape({
           label: "A useful and friendly enough companion. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -617,7 +617,7 @@ var cy = cytoscape({
             "A well-rounded and helpful friend. I trust him and respect his opinion. X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -627,7 +627,7 @@ var cy = cytoscape({
             "Though we do not se eye to eye, he is a good friend who is (mostly) trustworthy. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "COblueLOR" }
       },
       {
         data: {
@@ -637,13 +637,13 @@ var cy = cytoscape({
             "Means well, must has much to learn. He is a very good warrior. :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       // Reave
       {
         data: { source: "Reave", target: "Gorvas", label: "Job Competitor :|" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -652,12 +652,12 @@ var cy = cytoscape({
           label: "Simultaneously Amusing and Depressing :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: { source: "Reave", target: "Lilia", label: "Too Sentient :(" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: {
@@ -666,7 +666,7 @@ var cy = cytoscape({
           label: "Get's in the way of the Hunt :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -675,12 +675,12 @@ var cy = cytoscape({
           label: "Might Have Attacked You if It wasn't Against the Rules :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: { source: "Reave", target: "Orit", label: "Optimist :|" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -689,12 +689,12 @@ var cy = cytoscape({
           label: "Might be Able to Hunt If Zhen Died :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: { source: "Reave", target: "Toad", label: "Toad :)" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -703,12 +703,12 @@ var cy = cytoscape({
           label: "Why Didn't You Kill Me :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: { source: "Reave", target: "Zhen", label: "Young and Menace :|" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       // Rei
       {
@@ -718,12 +718,12 @@ var cy = cytoscape({
           label: "Boyfriend's Strict Fam :) "
         },
         classes: "autorotate",
-        style: { "line - color": "COLOR", "target - arrow - color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: { source: "Rei", target: "Gregory", label: "Decent Jokes :)" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -732,32 +732,32 @@ var cy = cytoscape({
           label: "Princess Role Model  X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: { source: "Rei", target: "Lilliana", label: "Friends X)" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: { source: "Rei", target: "Mayelre", label: "Rude :(" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: { source: "Rei", target: "Orit", label: "Bad Tea :|" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: { source: "Rei", target: "Reave", label: "Pervy Misogynist  X(" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "red", "target-arrow-color": "red" }
       },
       {
         data: { source: "Rei", target: "Toad", label: "Rude :(" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: {
@@ -766,12 +766,12 @@ var cy = cytoscape({
           label: "Rei hates you too X("
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "red", "target-arrow-color": "red" }
       },
       {
         data: { source: "Rei", target: "Zhen", label: "<3" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "pink", "target-arrow-color": "pink" }
       },
       //Toad
       {
@@ -781,7 +781,7 @@ var cy = cytoscape({
           label: "A terrifying enemy, but a steadfast friend :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -791,7 +791,7 @@ var cy = cytoscape({
             "Theocracy nobleman, but one of the good ones, his jokes suck though :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
@@ -801,7 +801,7 @@ var cy = cytoscape({
             "A Near total stranger, but Lilliana trusts her, dealt with the party fairly before :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -811,7 +811,7 @@ var cy = cytoscape({
             " Toad trusts her for teaching him a little about the common tounge X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -820,7 +820,7 @@ var cy = cytoscape({
           label: "A coward and a liar, she is both incompetent and disloyal X("
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "red", "target-arrow-color": "red" }
       },
       {
         data: {
@@ -830,7 +830,7 @@ var cy = cytoscape({
             "His compassion for others is a great strength, although his habits are odd :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -839,7 +839,7 @@ var cy = cytoscape({
           label: "Reave and i have grown apart, FAR apart :("
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: {
@@ -849,7 +849,7 @@ var cy = cytoscape({
             "Aglebemu finds it easier to think of Rei as an extension of Zhen than a true person :("
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: {
@@ -858,7 +858,7 @@ var cy = cytoscape({
           label: "He is dependable, and competent, :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
@@ -868,99 +868,99 @@ var cy = cytoscape({
             "Naive, polite, and a good spellcaster  seems oblivious to consequences :|"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       //Xaikon
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Gorvas",
           label: ":) Reliable and grounded in reality (usually)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Gregory",
           label: ":| A bit too indulgent"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Lilia",
           label: ":| Don't really know"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Lilliana",
           label: ":) Not Xaikon's usual type, but can respect her morals"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Mayelre",
           label: "X( Foolish, irate, and worse, unpredictable and unreliable."
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "red", "target-arrow-color": "red" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Orit",
           label:
             ":) A bit eccentric, but a kindred spirit who took a different path"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Reave",
           label: ":| Annoying but reliable"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Rei",
           label: ":( Finds her annoying and tactless"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "orange", "target-arrow-color": "orange" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Toad",
           label: ":) Knows how to do a job right"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: {
-          source: "Xiakon",
+          source: "Xaikon",
           target: "Zhen",
           label: ":| Oblivious, naive, eccentric, but not stupid"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       //Zhen
       {
@@ -970,7 +970,7 @@ var cy = cytoscape({
           label: "Unclely Authority Figure X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -979,12 +979,12 @@ var cy = cytoscape({
           label: "Relatable Drunk Bro X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: { source: "Zhen", target: "Lilia", label: "Friends X)" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: {
@@ -993,27 +993,27 @@ var cy = cytoscape({
           label: "Sarenrae Friends X)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "green", "target-arrow-color": "green" }
       },
       {
         data: { source: "Zhen", target: "Mayelre", label: "Aloof Comrade :)" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: { source: "Zhen", target: "Orit", label: "Aloof Comrade :)" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: { source: "Zhen", target: "Reave", label: "Associate :|" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       },
       {
         data: { source: "Zhen", target: "Rei", label: "<3" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "pink", "target-arrow-color": "pink" }
       },
       {
         data: {
@@ -1022,12 +1022,12 @@ var cy = cytoscape({
           label: "Knowledgable Comrade :)"
         },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "blue", "target-arrow-color": "blue" }
       },
       {
         data: { source: "Zhen", target: "Xaikon", label: "Associate :|" },
         classes: "autorotate",
-        style: { "line-color": "COLOR", "target-arrow-color": "COLOR" }
+        style: { "line-color": "yellow", "target-arrow-color": "yellow" }
       }
     ]
   },
