@@ -1,2 +1,0 @@
-# testingCytoscape
-Created with CodeSandbox
